@@ -2,7 +2,7 @@
 
 this is a script for [Hammerspoon](https://www.hammerspoon.org/)
 installation is simple:
-- place these files in a folder at ~/.hammerspoon/LivePowertoys.spoon
+- place these files in a folder at ~/.hammerspoon/Spoons/LivePowertoys.spoon
 - load it from ~/.hammerspoon/init.lua
     ```lua
     hs.loadSpoon('LivePowertoys')
